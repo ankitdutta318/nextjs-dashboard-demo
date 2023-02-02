@@ -1,0 +1,13 @@
+.list {
+    display: flex;
+    flex-direction: column;
+}
+
+.listItem {
+    padding: 10px 20px;
+    font-weight: 500;
+}
+
+.active {
+    background-color: #aaa;
+}
